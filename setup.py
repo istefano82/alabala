@@ -49,7 +49,7 @@ setup(
                       'spacy>=2.1',
                       'tqdm',
                       'tabulate>=0.7',
-                      'tensorflow==1.13.1',
+                      'tensorflow==2.11.1',
                       'PyYAML>=3.12'
                       ],
 
